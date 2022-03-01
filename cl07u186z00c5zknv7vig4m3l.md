@@ -104,7 +104,7 @@ The data is fetched inside the `getServerSideProps` function of the NextJS and t
 
 ### Error 500 page
 
-While building the app I noticed that most of the tech spaces are in **tech** or **web** keyword and there are times when there is no live or scheduled space with other keywords. To tackle this issue, I created a custom `_error.js` page, thanks to [Chris Bongers](https://twitter.com/DailyDevTips1) for his blog post on creating a custom error page.
+While building the app I noticed that most of the tech spaces are in the **tech** or **web** keyword and there are times when there is no live or scheduled space with other keywords. To tackle this issue, I created a custom `_error.js` page, thanks to [Chris Bongers](https://twitter.com/DailyDevTips1) for his blog post on creating a custom error page.
 
 ### SuperTokens Auth
 
@@ -112,5 +112,5 @@ The last part of the building process was to protect the website routes from non
 
 ## Conclusion
 
-This was my submission article of Hashnode x Netlify hackathon. I loved building this project. I you have any feedback or don't understand anything. Feel free to tell me in the comments or reach out to me on Twitter.
+This was my submission article for Hashnode x Netlify hackathon. I loved building this project. If you have any feedback or don't understand anything. Feel free to tell me in the comments or reach out to me on Twitter.
 
