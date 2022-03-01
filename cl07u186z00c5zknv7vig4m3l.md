@@ -104,7 +104,7 @@ The data is fetched inside the `getServerSideProps` function of the NextJS and t
 
 ### Error 500 page
 
-While building the app I noticed that most of the tech spaces are in **tech** or **web** keyword and there are times when there is no live or scheduled space with other keywords. To tackle this issue, I created a custom `_error.js` page, thanks to [Chris Bongers](@dailydevtips) for his blog post on creating a custom error page.
+While building the app I noticed that most of the tech spaces are in **tech** or **web** keyword and there are times when there is no live or scheduled space with other keywords. To tackle this issue, I created a custom `_error.js` page, thanks to [Chris Bongers](https://twitter.com/DailyDevTips1) for his blog post on creating a custom error page.
 
 ### SuperTokens Auth
 
