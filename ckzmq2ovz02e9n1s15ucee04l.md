@@ -23,7 +23,7 @@ According to Statista, React was the [most used](https://www.statista.com/statis
 
 ## What are Class Components?
 
-As discussed earlier in the article, a component in React is a piece of code responsible for rendering a certain section of the user interface. There are two types of components:
+As discussed earlier in the article, a component in React is a piece of code responsible for rendering a certain section of the user interface. There are two types of components-
 
 - Class Component
 
