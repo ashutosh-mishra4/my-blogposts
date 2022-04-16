@@ -56,7 +56,7 @@ SuperTokens provides a fully customizable frontend UI with 4 default themes-
 
 In today's fast paced world, having speed is a great necessity. This is one of the most amazing benefits of using SuperTokens. You don't have to wait for hours setting up your auth. 9 out of 10 developers finish their setup in under 45 minutes. I personally have implemented the email password login in under 10 minutes for my last project.
 
-### 5. Multiple Recipes
+### 4. Multiple Recipes
 
 According to SuperTokens, "A recipe is one independent auth module that can be consumed "as is". It can be consumed by users in their app, or by other recipes."
 
@@ -70,7 +70,7 @@ Currently, SuperTokens offers 5 different recipes:
 4.  **Only Social Login**
 5. **Only Session Management**
 
-### 6. Self Host or Managed Service
+### 5. Self Host or Managed Service
 
 You can self host SuperTokens auth entirely with Docker or without Docker(binary installation) using MySQL, PostgreSQL, or MongoDB as the database(SuperTokens don't offer login functionality with MongoDB yet, only session management).
 
