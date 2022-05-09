@@ -2,7 +2,7 @@
 
 As web development grows and evolves, it's important that we software developers continue to learn and teach ourselves new technologies. One great framework to add to your skill stack this year (if you haven't already) is React js. 
 
-React was introduced in 2013 by Facebook, and has since successfully risen above most other frontend frameworks in terms of [usage](https://www.statista.com/statistics/1124699/worldwide-developer-survey-most-used-frameworks-web/)and popularity. React developers are some of the most in-demand developers around the world as companies adopt React in their tech stack. So if you've been thinking about it, now is the perfect time to jump in and start your journey of learning React in 2022. Here are some great courses to start with!
+React was introduced in 2013 by Facebook, and has since successfully risen above most other frontend frameworks in terms of [usage](https://www.statista.com/statistics/1124699/worldwide-developer-survey-most-used-frameworks-web/) and popularity. React developers are some of the most in-demand developers around the world as companies adopt React in their tech stack. So if you've been thinking about it, now is the perfect time to jump in and start your journey of learning React in 2022. Here are some great courses to start with!
 
 ## 1. Scrimba's React Course
 
