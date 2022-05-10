@@ -14,7 +14,7 @@ if (age >= 18):
 else:
     print('You are not an adult')
 ``` 
-#### Explanation: 
+### Explanation: 
 
 - We first declare a variable called age with an **input** function to accept user input wrapped inside the **int** function. The *input* function is used to get input from the user and the *int* function is used to convert that value into a number.
 
@@ -43,7 +43,7 @@ elif(marks >= 60):
 elif(marks < 60):
   print('Grade D')
 ```
-#### Explanation
+### Explanation
 
 - In the first line, we created an input function, wrapped it inside *int()* to convert the input marks into integers, and assigned them to the *marks* variable.
 - Then there's an *If* statement to check whether the input marks are equal to or more than 90, if yes, **Grade A+** will be printed on the console.
@@ -59,7 +59,7 @@ socials = ["Twitter", "Facebook", "Instagram"]
 print(socials) #Expected output - ['Twitter', 'Facebook', 'Instagram']
 ```
 
-#### Explanation
+### Explanation
 
 - We created a list with various social media platform names, assigned it to variable socials, and used the *print()* function to print it on the console.
 - You have to always wrap the content of the list inside **square brackets([ ])**
@@ -81,7 +81,7 @@ print(numbers) # Expected output - [1,2,3,4,5,6,7,8]
 # Yayyyyy, we successfully changed the value of 5 stored at index 3 with 4
 ```
 
-#### Explanation
+### Explanation
 
 - At first, we created an ascending numbered list with *5* appearing twice in the list, at indexes 3 and 4.
 - To fix this issue, we wrote another code `numbers[3] = 4`. This will replace the value stored at index position 3 with 4. If you want to change the value of any other position, you can change 3 in `numbers[3]` with a different index number, like `numbers[0]`, and `number[1]` and so on.
@@ -99,7 +99,7 @@ print(numbers+newnumbers) # Expected output - [1,2,3,4,5,6,7,8,9, 10]
 # This happened because we added the newnumbers list to numbers list and printed the result.
 ```
 
-#### Explanation
+### Explanation
 
 - We created 2 numbered lists with numbers 1-5 and 6-10 respectively.
 - After that, we printed the combined result of the addition of both lists and got our combined result.
@@ -115,7 +115,7 @@ print(numbers*2) # Expected output - [1,2,3,4,5,1,2,3,4,5]
 # We multiplied our list by 2 and got the same result values twice due to the multiplication.
 ```
 
-#### Explanation
+### Explanation
 
 - We first created a *numbers* list with values of 1 to 5.
 - After that, we printed the result of the *numbers* list multiplied by two and got the result **[1,2,3,4,5,1,2,3,4,5]** because of the multiplication.
@@ -133,14 +133,14 @@ print("Purple" in colors) # Returns false because "Purple" is not in our list.
 print("Blue" in colors) # Returns true because "Blue" is present in our list.
 ```
 
-#### Explanation
+### Explanation
 
 - We first created a list of colors with color *Red, Blue, Orange, and Pink*
 - Next, we check whether **Purple** exists in our list or not with the following code - `print("Purple" in colors)`
 - We got the result as *false* because there is no "Purple" in our list. Next, we did the same thing with "Blue".
 - This time got the result *true* because "Blue" is present in our list.
 
-### Conclusion
+## Conclusion
 
 That's it for today's post and I will see you soon in another Python tutorial. This tutorial and all the future tutorials in this series are based on **[The Complete Python Masterclass](https://www.udemy.com/course/python-masterclass-course/)**. Check out this course if you want to learn Python in detail.
 
